@@ -1,0 +1,20 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.login-body {
+    background: linear-gradient(135deg, #1f2937, #111827);
+}
+
+.login-card {
+    width: 380px;
+    border-radius: 12px;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.table thead {
+    font-size: 0.9rem;
+}
