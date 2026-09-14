@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version del sistema: 1.1 - modulo clientes
+=======
+Version del sistema: 1.1 - modulo productos
+>>>>>>> feature/productos
