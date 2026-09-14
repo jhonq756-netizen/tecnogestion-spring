@@ -1,0 +1,1 @@
+Version del sistema: 1.0
